@@ -66,8 +66,8 @@
                                                                   &to QWRTY &RDC_X         RGBTGL    ___
                                                         ___       &mo FKEYS ___            BTTGL     ___       ___
                                                                             ___            ___
-            >
-    };
+            >;
+        };
     };
 
 };
