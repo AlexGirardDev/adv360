@@ -44,8 +44,8 @@
                 &kp GRAVE &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &kp F5         ___       &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    ___
                 &kp TAB   &kp SQT   &kp COMMA &kp PERIOD&kp P     &kp Y     &kp EQUAL      ___       &kp F     &kp G     &kp C     &kp R     &kp L     ___
                 &kp ESC   &kp A     &kp O     &kp E     &kp U     &kp I     &kp F12        ___       &kp D     &kp H     &kp T     &kp N     &kp S     &kp END
-                &kp LSHFT &kp Z     &kp X     &kp C     &kp V     &kp B                              &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp RSHFT
-                &mo FN    &kp GRAVE &kp CAPS  &kp LEFT  &kp RIGHT                                              &kp UP    &kp DOWN  &kp LBKT  &kp RBKT  &mo FN
+                &kp LSHFT &kp SLASH &kp Q     &kp J     &kp K     &kp X                              &kp B     &kp M     &kp W     &kp V     &kp Z     &kp ENTER
+                &kp LCTRL &kp UP    &kp DOWN  &kp LBKT  &kp N9                                                 &kp N0    &kp RBKT  &kp LEFT  &kp RIGHT &kp K_APP
                                                                   &kp LCTRL &kp LALT       &kp LGUI  &kp RCTRL
                                                         &kp BSPC  &kp DEL   &kp HOME       &kp PG_UP &kp ENTER &kp SPACE
                                                                             &kp END        &kp PG_DN
